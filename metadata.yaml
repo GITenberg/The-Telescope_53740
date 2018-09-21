@@ -1,0 +1,25 @@
+_repo: The-Telescope_53740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Louis
+    birthdate: 1864
+    deathdate: 1923
+    gutenberg_agent_id: '47514'
+    url: http://www.gutenberg.org/2009/agents/47514
+description: ''
+gutenberg_issued: '2016-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53740'
+  lccn: '22011434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telescopes'
+- !lcc 'QB'
+- GITenberg
+title: The Telescope
+url: http://www.gutenberg.org/ebooks/53740
